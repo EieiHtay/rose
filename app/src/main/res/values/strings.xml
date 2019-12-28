@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlinexercise</string>
+    <string name="txt_name">MY LOVE</string>
+    <string name="txt_header">YOU LIKE A FLOWER</string>
+    <string name="txtChoice">Editor\'s Choice</string>
+    <string name="txtDescription">Kotin exercise with imageview,textview,button. This flower is so beautiful.</string>
+    <string name="btn_text">Order Now</string>
+</resources>
